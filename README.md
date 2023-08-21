@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**meskt/meskt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Elizabeth 🙋
+I am a novice Data Science specialist. I study mathematics, programming and analytics.
 
-Here are some ideas to get you started:
+Programming language:
+Python, C/C++, C#, Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Databases:
+PostgreSQL, MySQL
+
+Operating Systems:
+Ubuntu, Windows Server
+
+Data Science:
+Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn
